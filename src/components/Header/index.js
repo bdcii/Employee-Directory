@@ -7,7 +7,7 @@ const Header = () => {
       <div className="header">
         <h1 className="text-center">Employee Directory</h1>
         <p className="text-center">
-          Search instructions here...
+          Click to filter by name.
         </p>
       </div>
     </header>
