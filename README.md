@@ -1,55 +1,87 @@
-# Unit 19 React Homework: Employee Directory
+# Employee Directory (React Application)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Overview
+## Description
+        
+*What does it do?*
+        
+    This application allows you to search an Employee Directory (automatically generated via API) and filter employees by name.  You can alphabetically organize the list via last name.
+             
+*Technologies Used:*
+        
+    JavaScript, React, Express, Node.js, NPM & various dependencies (axios, react-router,) Random user API (https://randomuser.me/),
+        
+        
+## Table of Contents
+        
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+        
+        
+        
+## Installation
+        
+    No need to install locally, the live link is https://bdcii.github.io/Employee-Directory/
+        
+        
+        
+## Usage
+        
+*Instructions:*
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+  Visiting the site will automatically generate a list of employees.  Start typing a name to filter for a specific user.  Click the arrow next to the last name to alphabetically list by last name in ascending or descending order.
 
-## User Story
+        
+        
+## License
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
-## Business Context
+MIT License
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
-
-## Acceptance Criteria
-
-Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
-
-The user should be able to:
-
-  * Sort the table by at least one category
-
-  * Filter the users by at least one property.
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
-
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
-
-Follow these guidelines for committing:
-
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
-
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
-
-* Test your application before you commit to ensure functionality at every step in the development process
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
-
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
-
-* **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
+                Copyright (c) [2021] [Barton Darrell Chess Jr]
+                
+                Permission is hereby granted, free of charge, to any person obtaining a copy
+                of this software and associated documentation files (the "Software"), to deal
+                in the Software without restriction, including without limitation the rights
+                to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                copies of the Software, and to permit persons to whom the Software is
+                furnished to do so, subject to the following conditions:
+                
+                The above copyright notice and this permission notice shall be included in all
+                copies or substantial portions of the Software.
+                
+                THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                SOFTWARE.
+        
+        
+        
+## Contributing
+        
+    Contact me using the information in the Questions below.
+            
+        
+        
+        
+## Tests
+        
+    N/A
+        
+        
+## Questions
+        
+* Questions/comments?  You can contact me via e-mail or GitHub -
+        
+    * E-mail:  bdchessii@gmail.com
+        
+    * GitHub: https://github.com/bdcii
+  
+  
